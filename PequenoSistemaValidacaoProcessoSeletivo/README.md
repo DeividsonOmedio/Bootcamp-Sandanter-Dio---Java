@@ -32,9 +32,6 @@ Dentro do projeto, crie a classe ParametrosInvalidosException que representará 
 <br>
 
 
-Localização do desafio:
-[Contador](https://github.com/rittiele/PequenoSistemaValidacaoProcessoSeletivo/blob/main/ControleCandidatos/src/candidatura/contador/Contador.java)
-<br>
 
 ##
 ### Tecnologias utilizadas:
